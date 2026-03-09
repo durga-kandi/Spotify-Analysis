@@ -98,18 +98,6 @@ Purpose: Deep-dive exploration for analytical insights.
 
 ## 🔗 Live Dashboard
 
-[View Live Dashboard](https://app.powerbi.com/groups/me/reports/504b1cf6-c87b-4414-935c-589e6f2e3725/4507a7d026a69053ee56?experience=power-bi)
-
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjg5MTcwZmUtNWUwMS00Zjc0LTlmM2ItMGExNjQ2MmE0NTU1IiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
 ---
-
-## 💼 Portfolio Value
-
-This project demonstrates:
-
-- SQL-based data preparation
-- Data modeling best practices
-- Advanced DAX calculations
-- Multi-page dashboard storytelling
-- Executive + analytical report design
-- Business-focused insight generation
 
